@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T21:09:05.184Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.8.4" etag="SXSggfJR8pwoSq9o4TfZ" type="github"><diagram id="Jf8pDBohHtSxtzJC2Qib">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-05T21:34:47.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="s3F0-D812QB3YLTCPK3Y" version="14.8.4" type="github">
+  <diagram id="Jf8pDBohHtSxtzJC2Qib" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0r-ggmTcseuoLzSxdjdF-1" value="MVP Working Name: WebGuru" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0r-ggmTcseuoLzSxdjdF-2" value="Contrators" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0r-ggmTcseuoLzSxdjdF-3" value="Companies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0r-ggmTcseuoLzSxdjdF-4" value="LinkedIn" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="479" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0r-ggmTcseuoLzSxdjdF-5" value="webguru.ca" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0r-ggmTcseuoLzSxdjdF-6" value="&lt;h1&gt;Value Prop to Company&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;We deal with taxes&lt;/p&gt;&lt;p&gt;Cheaper Labor&amp;nbsp;&lt;/p&gt;&lt;p&gt;Oversight from industry professionals&lt;/p&gt;&lt;p&gt;Tailored candidates, vetted by Industry Professionals&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="570" width="260" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="0r-ggmTcseuoLzSxdjdF-7" value="&lt;h1&gt;Finances&lt;/h1&gt;&lt;p&gt;Expenses: $25&lt;/p&gt;&lt;p&gt;Revenue: $50&lt;/p&gt;&lt;p&gt;Taxes: $11&lt;/p&gt;&lt;p&gt;Profit:&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="140" width="190" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
